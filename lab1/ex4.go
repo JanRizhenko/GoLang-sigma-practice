@@ -3,7 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	// Ініціалізація змінних
 	var a int16 = 2
 	var b int16 = 3
 	var c int64 = 10
